@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Udhay-Adithya
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning various backend technologies and frameworks.
+- 👀 I’m interested in Full-stack development
+- 🌱 I’m currently learning various fontend technologies and frameworks.
 - 💞️ I’m looking to collaborate on open-source projects related to backend development.
 - 📫 You can reach me via email at [udhayxd@gmail.com](mailto:udhayxd@gmail.com) or through my GitHub profile [@Udhay-Adithya](https://github.com/Udhay-Adithya).
 - 😄 Pronouns: He/Him
