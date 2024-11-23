@@ -64,7 +64,7 @@ I'm a passionate Flutter Developer with a strong foundation in backend developme
 </div>
 
 ## 📈 Contribution Graph
-![Snake animation](https://github.com/Udhay-Adithya/Udhay-Adithya/dist/github-contribution-grid-snake.svg)
+![Snake animation](/dist/github-contribution-grid-snake.svg)
 
 ---
 
