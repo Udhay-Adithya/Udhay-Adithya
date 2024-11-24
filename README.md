@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Udhay Adithya!
 
 <div align="center">
-  <img src="/api/placeholder/850/300" alt="Banner Image" />
+  <img src="/images/banner.png" alt="Banner Image" />
 </div>
 
 ## 👨‍💻 About Me
