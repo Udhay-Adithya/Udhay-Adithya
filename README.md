@@ -11,6 +11,8 @@ Flutter Developer. I love crafting beautiful, performant mobile applications whi
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="42" alt="Kotlin logo"  />
   <img width="0" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose" height="42" alt="Jetpack Compose logo"  />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=python" height="42" alt="python logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="ts logo"  />
@@ -18,14 +20,17 @@ Flutter Developer. I love crafting beautiful, performant mobile applications whi
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=c" height="42" alt="C logo"  />
+   <img src="https://skillicons.dev/icons?i=cpp" height="42" alt="CPP logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="fastapi logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=flask" height="42" alt="flask logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=django" height="42" alt="django logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=mongo" height="42" alt="mongo logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo"  />
   <img width="0" />
@@ -33,7 +38,6 @@ Flutter Developer. I love crafting beautiful, performant mobile applications whi
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
   <img width="0" />
-
   <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="42" alt="androidstudio logo"  />
